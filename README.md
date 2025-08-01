@@ -1,5 +1,5 @@
 # instacart-grocery-recommendation-project
-I am using this project to exercise my employable skills in data science plus i love solving big data puzzles for fun and finding the SIGNAL in noises. ok stop reading this and go looked at my high agency work, muah. 
+I am using this project to exercise my employable skills in data science plus i love solving big data puzzles for fun and finding the SIGNAL in noise. ok stop reading this and go looked at my high agency work, muah. 
 
 
 > The main aim is to predict groceries customers will likely buy again, based on their past shopping behavior.
